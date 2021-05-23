@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/divi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="divi4" height="30" width="40" /></a>
 <a href="https://twitter.com/divi97757484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="divi97757484" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david martin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="david martin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/david-martin-software-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="david martin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
