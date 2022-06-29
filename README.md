@@ -3,13 +3,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://divi4.github.io/](https://divi4.github.io/)
-
 - 💬 Ask me about **mongodb, node.js, express.js**
 
 - 📫 How to reach me **david.martin1999@outlook.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Vieodj0Q2zxCgWxnohkueEK6oljqjDm/view?usp=sharing](https://drive.google.com/file/d/13Vieodj0Q2zxCgWxnohkueEK6oljqjDm/view?usp=sharing)
 
 - ⚡ Fun fact **Lady Gaga once threw popcorn at me whilst on a carousel at Tokyo Disneyland**
 
